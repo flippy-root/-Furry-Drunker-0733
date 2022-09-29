@@ -110,7 +110,7 @@ def close_win():
 
 # вывод справки    
 def about():
-  showinfo("Demo Paint", "Простейшая рисовалка от сайта: https://it-black.ru")
+  showinfo("Demo Paint", "Paint.exe")
   
 # функция для создания главного окна
 def main():
